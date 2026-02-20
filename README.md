@@ -20,19 +20,29 @@ Me interesa el desarrollo backend, la programación orientada a objetos y el dis
 - Git & GitHub
 
 ---
+## 🚀 Proyectos
 
-## 📂 Proyectos Destacados
-
-🔹 Sistema de Gestión de Logística y Envíos  
-Aplicación académica enfocada en el modelado de procesos logísticos y control de envíos.
-
-🔹 Proyectos en Java  
-Desarrollo de aplicaciones utilizando POO y conexión a base de datos.
-
-🔹 Proyectos en C++  
-Implementación de estructuras de datos y lógica algorítmica.
+### 🔹 Sistema de Logística y Envíos
+Sistema enfocado en la gestión de procesos logísticos y control de envíos.
+👉 https://github.com/ASOP125/ProyectoFinal-ProgramacionII.git
 
 ---
+
+### 🔹Sistema de Control de Estudiantes (Java + JDBC + MariaDB)
+Aplicación en Java con JDBC y MariaDB para gestión de estudiantes y cursos, implementando relaciones uno a muchos y operaciones CRUD en base de datos relacional.
+👉 https://github.com/ASOP125/TareaVII_MavenyBasedeDatos.git
+
+---
+
+### 🔹 Mini-Juego Pokémon en Consola (Java – POO)
+Juego por turnos en Java que aplica conceptos avanzados de POO (clase abstracta, herencia, interfaz y polimorfismo), manejo de excepciones personalizadas y uso de Streams para análisis de datos en tiempo de ejecución.
+👉 https://github.com/ASOP125/Parcial-II-Programaci-nII.git
+
+---
+
+### 🔹 Repositorio de Ejercicios – Programación II (Java)
+Conjunto de prácticas académicas desarrolladas en Java, aplicando conceptos de POO, manejo de excepciones, colecciones y lógica algorítmica como parte del curso de Programación II (UMG).
+👉 https://github.com/ASOP125/Programacion-II-Semana-2.git
 
 ## 📈 Actualmente
 
